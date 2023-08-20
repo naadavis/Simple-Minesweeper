@@ -9,7 +9,7 @@ Relies on a depth first search if initial reasoning fails.
 Will make guesses based on state-space generated probabilities.
 
 ## Motivations
-- Generate an approximnate win percentage ceiling for minesweeper play.
+- Generate an approximate win percentage ceiling for minesweeper play.
 - Asses computational and development complexity of human style minesweeper play.
 
 ## Results
